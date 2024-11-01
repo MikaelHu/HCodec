@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="FFMpeg\ffcodec.cpp">
+      <Filter>源文件\FFMpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FFMpeg\ffdecoder.cpp">
+      <Filter>源文件\FFMpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FFMpeg\ffencoder.cpp">
+      <Filter>源文件\FFMpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="FFMpeg\fflog.cpp">
+      <Filter>源文件\FFMpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv2rgb16tab.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv420rgb565c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv420rgb888c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv420rgb8888c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv422rgb565c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv422rgb888c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv422rgb8888c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv444rgb565c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv444rgb888c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="yuv2rgb003\yuv444rgb8888c.c">
+      <Filter>源文件\yuv2rgb003</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenH264.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioConvetor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H264Convetor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HDecoder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HEncoder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameCodeConvert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HConvertor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HMuxer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HDeMuxer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H264Parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AACParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FFMpeg\ffcodec.h">
+      <Filter>头文件\FFMpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FFMpeg\ffdecoder.h">
+      <Filter>头文件\FFMpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FFMpeg\ffheader.h">
+      <Filter>头文件\FFMpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FFMpeg\fflog.h">
+      <Filter>头文件\FFMpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="FFMpeg\ffparam.h">
+      <Filter>头文件\FFMpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="yuv2rgb003\yuv2rgb.h">
+      <Filter>头文件\yuv2rgb003</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenH264.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioConvetor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="H264Convetor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HDecoder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HEncoder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameCodeConvert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HConvertor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HMuxer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FFMpeg\ffencoder.h">
+      <Filter>头文件\FFMpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="HDeMuxer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="H264Parser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AACParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{505abaee-5190-4c69-9fac-2e5bfe6d4f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\FFMpeg">
+      <UniqueIdentifier>{7f74e7fb-1f7e-47c0-a933-edd63e94c547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{81fb0ac3-dcbd-4023-b103-4f807db6eaed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\FFMpeg">
+      <UniqueIdentifier>{da6c7572-6e96-43e8-851d-8b933ccb49a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\yuv2rgb003">
+      <UniqueIdentifier>{693c50bf-d035-4740-856d-fe9d3029553b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\yuv2rgb003">
+      <UniqueIdentifier>{24030c23-ecd9-4b1c-b0e2-b2f1ca24987e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
